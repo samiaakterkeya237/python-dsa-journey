@@ -1,0 +1,21 @@
+DSA Practice:
+
+
+Find sum of array
+
+Example:
+
+[1,2,3,4]
+
+Output:
+10
+Find maximum
+[5,2,9,1]
+
+Output:
+9
+Count even numbers
+[1,2,4,7,8]
+
+Output:
+3
