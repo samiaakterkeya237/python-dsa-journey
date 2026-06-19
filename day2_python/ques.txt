@@ -1,0 +1,232 @@
+ঠিক আছে। এখন থেকে আমি এগুলো **interview/problem-solving style** এ সাজিয়ে দেবো। শুধু "even/odd" না — এমনভাবে যাতে তুমি input → logic → output চিন্তা করতে শেখো।
+
+আজকের Python practice set (Beginner → Interview foundation):
+
+---
+
+# 🐍 Problem 1: Number Classification
+
+### Problem:
+
+You are building a number analysis system.
+Given an integer `n`, determine whether the number is **Even** or **Odd**.
+
+### Input:
+
+```
+Enter a number:
+7
+```
+
+### Output:
+
+```
+Number 7 is Odd
+```
+
+### Concepts:
+
+* input()
+* int()
+* %
+* if/else
+
+---
+
+# 🐍 Problem 2: Number Sign Detector
+
+### Problem:
+
+A software system receives a number from the user.
+Write a program that determines whether the number is:
+
+* Positive
+* Negative
+* Zero
+
+### Input:
+
+```
+Enter number:
+-5
+```
+
+### Output:
+
+```
+The number is Negative
+```
+
+### Concepts:
+
+* comparison operator
+* if / elif / else
+
+---
+
+# 🐍 Problem 3: Mini Calculator System
+
+### Problem:
+
+Create a calculator that takes:
+
+* First number
+* Second number
+* Operator
+
+and performs:
+
+```
++
+-
+*
+/
+```
+
+### Input:
+
+```
+First number:
+20
+
+Second number:
+5
+
+Operator:
+*
+```
+
+### Output:
+
+```
+Result = 100
+```
+
+### Concepts:
+
+* input
+* operators
+* condition
+
+---
+
+# 🐍 Problem 4: Voting Eligibility Checker
+
+### Problem:
+
+A government system checks whether a citizen can vote.
+
+Rules:
+
+If age is 18 or above:
+
+```
+Eligible
+```
+
+Otherwise:
+
+```
+Not Eligible
+```
+
+### Input:
+
+```
+Age:
+20
+```
+
+### Output:
+
+```
+You are eligible to vote
+```
+
+### Concepts:
+
+* comparison
+* if else
+
+---
+
+# 🐍 Problem 5: Maximum Finder (Important)
+
+### Problem:
+
+A system receives three numbers.
+Find the largest number.
+
+### Input:
+
+```
+Number 1:
+10
+
+Number 2:
+25
+
+Number 3:
+15
+```
+
+### Output:
+
+```
+Largest number is 25
+```
+
+### Constraint:
+
+Do NOT use:
+
+```python
+max()
+```
+
+### Concepts:
+
+* comparison
+* logical operator
+* nested if
+
+---
+
+# ⭐ Bonus (Google style thinking)
+
+## Problem 6: Student Result Analyzer
+
+A university system stores marks.
+
+Rules:
+
+90-100 → A+
+
+80-89 → A
+
+70-79 → B
+
+60-69 → C
+
+Below 60 → Fail
+
+Input:
+
+```
+Enter marks:
+85
+```
+
+Output:
+
+```
+Grade: A
+```
+
+Concept:
+
+* elif chain
+
+
+
+
