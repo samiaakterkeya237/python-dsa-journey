@@ -1,0 +1,92 @@
+DSA Practice (Array Basics)
+Q8. Array Index Explorer
+
+Given:
+
+arr=[15,25,35,45,55]
+
+Print:
+
+First element:
+Third element:
+Last element:
+
+Concept:
+
+array
+index
+Q9. Update Array Value
+
+Given:
+
+arr=[10,20,30,40]
+
+Change:
+
+20 → 100
+
+Output:
+
+[10,100,30,40]
+
+Concept:
+
+update
+Q10. Array Traversal
+
+Given:
+
+arr=[5,10,15,20]
+
+Print every element.
+
+Concept:
+
+traversal
+🧩 Google Style Thinking (Still Basic)
+Q11. Find Element
+
+Array:
+
+[3,7,9,2]
+
+Question:
+
+Check if 9 exists.
+
+Expected:
+
+Found
+
+Concept:
+
+traversal idea
+comparison
+
+(no loop yet)
+
+Q12. Array Access Analysis
+
+Given:
+
+arr=[100,200,300,400]
+
+Question:
+
+Which operation is faster?
+
+A)
+
+arr[2]
+
+B)
+
+checking every value
+
+Write answer in notes.
+
+Concept:
+
+O(1)
+O(n)
+= ans A ( o(1))

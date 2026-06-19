@@ -1,0 +1,139 @@
+Q1. Student Information System
+
+Write a program that takes:
+
+Input:
+
+Name
+Age
+Department
+CGPA
+
+Output:
+
+Student Name: ___
+Age: ___
+Department: ___
+CGPA: ___
+
+Concept:
+
+input()
+print()
+variables
+str/int/float
+
+
+Q2. Age Calculator
+
+Input:
+
+Birth year
+Current year
+
+Output:
+
+Your age is: __
+
+Concept:
+
+int conversion
+subtraction
+
+Q3. Temperature Converter
+
+Input:
+
+Celsius
+
+Output:
+
+Fahrenheit = ?
+
+Formula:
+
+F = (C * 9/5) + 32
+
+Concept:
+
+float
+operators
+Q4. Simple Calculator
+
+Input:
+
+First number
+Second number
+
+Output:
+
+Addition:
+Subtraction:
+Multiplication:
+Division:
+
+Concept:
+
+arithmetic operators
+
+
+Q5. Type Detective
+
+Input:
+
+anything
+
+Print:
+
+Value:
+Type:
+
+Example:
+
+Input:
+
+50
+
+Output:
+
+Value: 50
+Type: int
+
+Concept:
+
+type()
+Level 2 — Interview Thinking (Still Same Topic)
+Q6. Swap Two Numbers
+
+Input:
+
+a=10
+b=20
+
+Output:
+
+a=20
+b=10
+
+Restriction:
+No extra concept.
+
+Only:
+
+variable
+Q7. Average Calculator
+
+Input:
+
+Math marks
+English marks
+Physics marks
+
+Output:
+
+Average = ?
+
+Concept:
+
+float
+operators
